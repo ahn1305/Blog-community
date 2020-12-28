@@ -4,8 +4,8 @@ from django.contrib.auth.models import User
 from django.urls import reverse
 from hitcount.models import HitCountMixin, HitCount
 from django.contrib.contenttypes.fields import GenericRelation
-from django.utils.encoding import python_2_unicode_compatible
-
+from django.utils.encoding import smart_text
+from six import python_2_unicode_compatible
 
 @python_2_unicode_compatible
 
