@@ -1,6 +1,6 @@
 # Blog-community
 
-<b> This blog was made for students to share their project ideas and learning resources. <b />
+<b><h2> This blog was made for students to share their project ideas and learning resources. <b /><h2 />
 
 ### Click the link below and know more about the webapp
 
