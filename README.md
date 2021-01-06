@@ -1,5 +1,7 @@
 # Blog-community
 
+<img src = "https://github.com/ahn1305/Blog-community/blob/main/blog/static/blog/images/logo.jpeg">
+
 This blog was made for students to share their project ideas and learning resources.
 
 Click the link below and know more about the webapp
