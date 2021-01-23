@@ -10,4 +10,4 @@ Click the link below and know more about the webapp
 
 ### [Article](https://sites.google.com/view/about-stddev/home)
 
-### [You can get the android version of this webapp by clicking here](https://github.com/ahn1305/Blog-community/blob/main/stddevcommunity.apk)
+### I have added the android-version of the webapp, download and try it. The app is not in playstore.
