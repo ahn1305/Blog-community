@@ -9,3 +9,5 @@ Click the link below and know more about the webapp
 ### [explainatory video](https://www.instagram.com/tv/CIcdWPonmY0/?utm_source=ig_web_copy_link)
 
 ### [Article](https://sites.google.com/view/about-stddev/home)
+
+### [You can get the android version of this webapp by clicking here](https://github.com/ahn1305/Blog-community/blob/main/stddevcommunity.apk)
