@@ -13,8 +13,11 @@ Click the link below and know more about the webapp
 ### I have submitted the android-version of the webapp to amazon app store,the app was approved by amazon and its live now, The app has passed all the major tests.
 ### Here are some screenshots of it...
 
+<img src = "https://github.com/ahn1305/Blog-community/blob/main/mail.jpg" height= "600">
+
+<img src = "https://github.com/ahn1305/Blog-community/blob/main/apstore.jpg" height= "600">
 
 
-### I have not written the android code for this app, I just converted the webapp that I have made into a app.
 
-### [stddevcommmunity.apk](https://github.com/ahn1305/Blog-community/blob/main/stddevcommunity.apk)
+### I have not written the android code for this app, I just converted the webapp that I have made into a android app.
+
