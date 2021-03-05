@@ -10,6 +10,11 @@ Click the link below and know more about the webapp
 
 ### [Article](https://sites.google.com/view/about-stddev/home)
 
-### I have added the android-version of the webapp, download and try it. The app is not in playstore.
+### I have submitted the android-version of the webapp to amazon app store,the app was approved by amazon and its live now, The app has passed all the major tests.
+### Here are some screenshots of it...
+
+
+
+### I have not written the android code for this app, I just converted the webapp that I have made into a app.
 
 ### [stddevcommmunity.apk](https://github.com/ahn1305/Blog-community/blob/main/stddevcommunity.apk)
